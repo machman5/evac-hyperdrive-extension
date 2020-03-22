@@ -25,7 +25,7 @@ A blazing fast web accelerator for Chrome and Chrome OS. Boosting web surfing sp
 
 ### _downloads
 
-extensions for [Chrome Browser]() or [Opera Browser]()
+extensions for [Chrome Browser](https://github.com/loouislow81/evac-hyperdrive-extension/releases/download/2.1.7/evac-hyperdrive_2.1.7_chrome.zip).
 
 Enjoy!
 
