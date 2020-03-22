@@ -1,0 +1,18 @@
+{
+  "name": "EVAC Hyperdrive",
+  "description": "Blazing fast web accelerator for Chrome Browser and Chrome OS",
+  "version": "2.1.7",
+  "manifest_version": 2,
+  "homepage_url": "https://github.com/loouislow81/arch-hyperdrive/",
+  "icons": {
+    "128": "app_icon128.png",
+    "48": "app_icon48.png"
+  },
+  "offline_enabled": false,
+  "background": {
+    "persistent": true,
+    "scripts": ["js/background.js"]
+  },
+  "permissions": ["<all_urls>", "webRequest", "webRequestBlocking", "storage"],
+  "incognito": "spanning"
+}
